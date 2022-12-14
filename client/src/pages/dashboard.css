@@ -1,0 +1,17 @@
+.dashboard{
+   padding-left: 10px;
+   padding-right: 10px;
+}
+.user_title{
+    text-align: start;
+}
+.user_header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
